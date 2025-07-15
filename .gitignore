@@ -1,0 +1,9 @@
+.env
+published_hashes.txt
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
